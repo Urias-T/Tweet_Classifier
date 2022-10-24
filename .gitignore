@@ -1,0 +1,4 @@
+__pycache__/
+Dataset/
+GloVe/
+*.csv
