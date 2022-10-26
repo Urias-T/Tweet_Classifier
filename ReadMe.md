@@ -10,6 +10,8 @@
 
 - *Model1:* This model was averaging an f1score of about 0.5 on the test data despite extensive efforts with various model architectures and tuning to avoid overfitting. 
 
+- *Model2:* With this model, I attained an f1 score of ~0.78 on the test data.
+
 **Possible Areas for Improvement:**
 
 - One possible area worth exploring is to use the Natural Language toolkit to process the data.
