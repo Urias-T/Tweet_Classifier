@@ -14,5 +14,4 @@
 
 **Possible Areas for Improvement:**
 
-- One possible area worth exploring is to use the Natural Language toolkit to process the data.
-- Another area worth exploring is to use pre-trained BERT models and tune for this specific project.
+- One possible area worth exploring is to use pre-trained BERT models and tune for this specific project.
