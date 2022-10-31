@@ -12,6 +12,11 @@
 
 - *Model2:* With this model, I attained an f1 score of ~0.78 on the test data.
 
+- *Model3:* Two model architectures were used. They are: 
+   	1.) With BERT: An f1 score of ~0.76 was attained
+	2.) with DistilBERT: An f1 score of ~0.73 was attained
+
+
 **Possible Areas for Improvement:**
 
-- One possible area worth exploring is to use pre-trained BERT models and tune for this specific project.
+- One possible area worth exploring is to improve on fine-tuning the BERT and DistilBERT transformers.
